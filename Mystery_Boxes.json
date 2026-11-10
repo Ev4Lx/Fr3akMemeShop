@@ -8,8 +8,7 @@
     "desc": "1-2 Common-Rare skins or Ki Bucks",
     "rarityList": {
       "Common": true,
-      "Uncommon": true,
-      "Rare": true
+      "Uncommon": true
     },
     "skinCount": [1, 2],
     "kibucks": [750, 350, 250],
@@ -25,8 +24,9 @@
     "stroke": [110, 50, 190],
     "desc": "1-4 Rare-Epic skins or Ki Bucks",
     "rarityList": {
+      "Common": true,
+      "Uncommon": true,
       "Rare": true,
-      "Epic": true
     },
     "skinCount": [1, 4],
     "kibucks": [1250, 1000, 750, 1],
@@ -40,12 +40,12 @@
     "price": 3250,
     "color": [255, 200, 60],
     "stroke": [200, 150, 20],
-    "desc": "1-3 Icon-Exclusive skins or Ki Bucks. DARK MATTER chance!",
+    "desc": "1-3 Icon-Exclusive skins or Ki Bucks.",
     "rarityList": {
-      "Icon": true,
-      "Prize": true,
-      "Mythic": true,
-      "Exclusive": true
+      "Rare": true,
+      "Rare": true,
+      "Epic": true,
+      "Legendary": true
     },
     "skinCount": [1, 3],
     "kibucks": [3250, 2890, 1750, 1],
@@ -57,8 +57,8 @@
     "id": "Mystery",
     "name": "? Mystery ?",
     "price": 6666,
-    "color": [255, 200, 60],
-    "stroke": [200, 150, 20],
+    "color": [255, 255, 255],
+    "stroke": [255, 255, 255],
     "desc": "????????????",
     "rarityList": {
       "Common": true,
@@ -69,6 +69,7 @@
       "Icon": true,
       "Prize": true,
       "Mythic": true,
+      "Legendary": true,
       "Exclusive": true
     },
     "skinCount": [1, 13],
