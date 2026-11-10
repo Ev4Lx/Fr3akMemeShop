@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CheepSkate",
+    "name": "CheepSkate",
+    "price": 750,
+    "color": [90, 220, 120],
+    "stroke": [50, 180, 90],
+    "desc": "1-3 Common-Rare skins or Ki Bucks",
+    "rarityList": {
+      "Common": true,
+      "Uncommon": true,
+      "Rare": true
+    },
+    "skinCount": [1, 3],
+    "kibucks": [750, 350, 250],
+    "wSkins": 0.65,
+    "wKibucks": 0.28,
+    "wShop": 0.07
+  },
+  {
+    "id": "NicePulls",
+    "name": "Nice Pulls",
+    "price": 1250,
+    "color": [160, 90, 230],
+    "stroke": [110, 50, 190],
+    "desc": "3-4 Rare-Epic skins or Ki Bucks",
+    "rarityList": {
+      "Rare": true,
+      "Epic": true
+    },
+    "skinCount": [3, 4],
+    "kibucks": [1250, 1000, 750, 1],
+    "wSkins": 0.65,
+    "wKibucks": 0.28,
+    "wShop": 0.07
+  },
+  {
+    "id": "BigBalling",
+    "name": "Big Balling",
+    "price": 3250,
+    "color": [255, 200, 60],
+    "stroke": [200, 150, 20],
+    "desc": "2-3 Icon-Exclusive skins or Ki Bucks. DARK MATTER chance!",
+    "rarityList": {
+      "Icon": true,
+      "Prize": true,
+      "Mythic": true,
+      "Exclusive": true
+    },
+    "skinCount": [2, 3],
+    "kibucks": [3250, 2890, 1750, 1],
+    "wSkins": 0.50,
+    "wKibucks": 0.20,
+    "wShop": 0.30
+  }
+]
