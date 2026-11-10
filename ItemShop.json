@@ -75,5 +75,12 @@
       "desc": "The ultimate Dark Matter skin. Pure power.",
       "price": 3500,
       "accent": "#5A288C"
+    },
+    {
+      "id": "PickaxeLanternBloom",
+      "name": "TEST",
+      "desc": "The ultimate Test!!",
+      "price": 1000,
+      "accent": "#54448C"
     }
   ]
