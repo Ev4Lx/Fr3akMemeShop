@@ -61,20 +61,15 @@
     "stroke": [255, 255, 255],
     "desc": "????????????",
     "rarityList": {
-      "Common": true,
-      "Uncommon": true,
-      "Rare": true,
       "Rare": true,
       "Epic": true,
       "Icon": true,
-      "Prize": true,
       "Mythic": true,
       "Legendary": true,
       "Exclusive": true
     },
     "skinCount": [1, 13],
     "wSkins": 0.269420,
-    "wKibucks": 0.3999,
     "wShop": 0.100123
   }
 ]
