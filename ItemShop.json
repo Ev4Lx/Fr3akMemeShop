@@ -1,0 +1,79 @@
+[
+    {
+      "id": "DMSkeleton",
+      "name": "Custom Dark Matter Skin",
+      "desc": "Galaxy-flow skeleton shader",
+      "price": 1800,
+      "accent": "#9650DC"
+    },
+    {
+      "id": "Bryzy",
+      "name": "Bryzy",
+      "desc": "Exclusive Bryzy skin",
+      "price": 2200,
+      "accent": "#50A0FF"
+    },
+    {
+      "id": "Galaxy",
+      "name": "Galaxy",
+      "desc": "Cosmic Galaxy skin",
+      "price": 2000,
+      "accent": "#C864FF"
+    },
+    {
+      "id": "ScrimWarrior",
+      "name": "Scrim Warrior",
+      "desc": "Elite Scrim Warrior skin",
+      "price": 1800,
+      "accent": "#FF6464"
+    },
+    {
+      "id": "DMMech",
+      "name": "DM Mech",
+      "desc": "Dark Matter Mech skin",
+      "price": 2000,
+      "accent": "#646496"
+    },
+    {
+      "id": "DMNova",
+      "name": "DM Nova",
+      "desc": "Dark Matter Nova skin",
+      "price": 2000,
+      "accent": "#FF9632"
+    },
+    {
+      "id": "DMPhantom",
+      "name": "DM Phantom",
+      "desc": "Dark Matter Phantom skin",
+      "price": 2000,
+      "accent": "#505050"
+    },
+    {
+      "id": "DMRacer",
+      "name": "DM Racer",
+      "desc": "Dark Matter Racer skin",
+      "price": 2000,
+      "accent": "#FF3232"
+    },
+    {
+      "id": "DMSwirl",
+      "name": "DM Swirl",
+      "desc": "Dark Matter Swirl skin",
+      "price": 2000,
+      "accent": "#B432C8"
+    },
+    {
+      "id": "Nebula",
+      "name": "Nebula",
+      "desc": "Nebula cosmic skin",
+      "price": 2000,
+      "accent": "#32C8FF"
+    },
+    {
+      "id": "DarkMatter",
+      "name": "Dark Matter",
+      "desc": "The ultimate Dark Matter skin. Pure power.",
+      "price": 3500,
+      "accent": "#5A288C"
+    }
+  ]
