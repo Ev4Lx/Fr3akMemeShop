@@ -1,5 +1,17 @@
 {
-  "Cheats19793-12hiasd": "3d",
-  "3249uy8ahsdas": "1w",
-  "TEST-LIFETIME-KEY": "lifetime"
+  "Cheats19793-12hiasd": {
+    "duration": "3d",
+    "ip": "19.29.182.1",
+    "hwid": "SAH-3UHASD83SA-3"
+  },
+  "3249uy8ahsdas": {
+    "duration": "1w",
+    "ip": "84.101.22.14",
+    "hwid": "XK29A-F77DE-K11B2"
+  },
+  "TEST-LIFETIME-KEY": {
+    "duration": "lifetime",
+    "ip": "*",
+    "hwid": "*"
+  }
 }
