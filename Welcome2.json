@@ -8,5 +8,10 @@
     "duration": "lifetime",
     "ip": "67.248.235.173",
     "hwid": "fa6730fb7ebc2f62e42fa68df913eac0f10efb31876d6a3fb45b67e748d3d87b04df6f7164ca3738fb79fea419d317c9d1593c79c152b84b95cbcd75634b583f"
+  },
+  "KEY_Zayne-Beta-19hr": {
+    "duration": "1d",
+    "ip": "47.231.97.57",
+    "hwid": "8e117c65853d407afcb07b395f702412a6247f925207bb5168ff73ad829dc7f604968cb0b1914058beb2c363c29fd17119524e087d115c967f95dafe47a3c06f"
   }
 }
