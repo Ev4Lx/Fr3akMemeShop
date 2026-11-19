@@ -13,15 +13,5 @@
     "duration": "1d",
     "ip": "47.231.97.57",
     "hwid": "8e117c65853d407afcb07b395f702412a6247f925207bb5168ff73ad829dc7f604968cb0b1914058beb2c363c29fd17119524e087d115c967f95dafe47a3c06f"
-  },
-  "Tr1gg3r0-01Truth": {
-    "duration": "1d",
-    "ip": "104.28.205.81",
-    "hwid": "9d5c3eaf-8ac3-11ef-b655-806e6f6e6963"
-  },
-  "luvvgunna-2012": {
-    "duration": "2d",
-    "ip": "217.177.219.60",
-    "hwid": "d94d7d2c26ab49b0c1bb10c06a183a9929f37aff29563ece4b9ebaf3c19f37f3a94c88b4ac5ad80611d3dc77caeff827efc644dce1e5025385e33db5be1d09b9"
   }
 }
