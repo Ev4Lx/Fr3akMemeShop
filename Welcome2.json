@@ -18,5 +18,10 @@
     "duration": "1d",
     "ip": "104.28.205.81",
     "hwid": "9d5c3eaf-8ac3-11ef-b655-806e6f6e6963"
+  },
+  "luvvgunna-2012": {
+    "duration": "2d",
+    "ip": "217.177.219.60",
+    "hwid": "d94d7d2c26ab49b0c1bb10c06a183a9929f37aff29563ece4b9ebaf3c19f37f3a94c88b4ac5ad80611d3dc77caeff827efc644dce1e5025385e33db5be1d09b9"
   }
 }
