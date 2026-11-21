@@ -23,5 +23,10 @@
     "duration": "lifetime",
     "ip": "73.50.207.87",
     "hwid": "2fa2e92a434da82b7837da450776cba3aa37e12ba96c7e444e183b7771825464"
+  },
+  "ConS-Media-291-OLS-2": {
+    "duration": "1d",
+    "ip": "184.185.244.115",
+    "hwid": "42b057f52f03208896091b08fdd08f20e4fef1078cad75bf8fa4df718d9b0342"
   }
 }
