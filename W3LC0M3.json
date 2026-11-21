@@ -28,5 +28,10 @@
     "duration": "1d",
     "ip": "184.185.244.115",
     "hwid": "42b057f52f03208896091b08fdd08f20e4fef1078cad75bf8fa4df718d9b0342"
+  },
+  "Ki-2": {
+    "duration": "lifetime",
+    "ip": "67.248.235.173",
+    "hwid": "081729b661602c0200a3f51cc1a619d9dcb4046e58740ce91b76d2d74f0802cb"
   }
 }
