@@ -33,5 +33,10 @@
     "duration": "lifetime",
     "ip": "67.248.235.173",
     "hwid": "081729b661602c0200a3f51cc1a619d9dcb4046e58740ce91b76d2d74f0802cb"
+  },
+  "Trigg3r-3801-6d": {
+    "duration": "6d",
+    "ip": "104.28.205.81",
+    "hwid": "76f482b94bdd2059d76d77b9df17a404c85d781f1c6ef0b2bd64cc75701c36c2"
   }
 }
